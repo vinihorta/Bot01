@@ -295,49 +295,5 @@
     "$invalidOutputs": false,
     "$invalidCustomActions": false,
     "$invalid": false
-  },
-  "a21a76f0-b9a3-4c20-9dba-8455936b9d80": {
-    "$contentActions": [
-      {
-        "input": {
-          "bypass": false,
-          "$cardContent": {
-            "document": {
-              "id": "de4845ce-ee51-40af-a1ea-0a2884520f8c",
-              "type": "text/plain",
-              "textContent": "Entrada do usuário",
-              "content": "Entrada do usuário"
-            },
-            "editable": false,
-            "deletable": true,
-            "position": "right",
-            "editing": false
-          },
-          "$invalid": false
-        },
-        "$invalid": false,
-        "$$hashKey": "object:5573"
-      }
-    ],
-    "$conditionOutputs": [],
-    "$enteringCustomActions": [],
-    "$leavingCustomActions": [],
-    "$inputSuggestions": [],
-    "$defaultOutput": {
-      "stateId": "fallback",
-      "$invalid": false
-    },
-    "$tags": [],
-    "id": "a21a76f0-b9a3-4c20-9dba-8455936b9d80",
-    "root": false,
-    "$title": "Novo bloco",
-    "$position": {
-      "top": "159px",
-      "left": "148px"
-    },
-    "$invalidContentActions": false,
-    "$invalidOutputs": false,
-    "$invalidCustomActions": false,
-    "$invalid": false
   }
 }
