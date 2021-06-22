@@ -295,49 +295,5 @@
     "$invalidOutputs": false,
     "$invalidCustomActions": false,
     "$invalid": false
-  },
-  "cd916b50-566e-45e9-a327-1f84809a1c3a": {
-    "$contentActions": [
-      {
-        "input": {
-          "bypass": false,
-          "$cardContent": {
-            "document": {
-              "id": "ffefa1f2-de96-4fd2-bc36-3a2739a7e533",
-              "type": "text/plain",
-              "textContent": "Entrada do usuário",
-              "content": "Entrada do usuário"
-            },
-            "editable": false,
-            "deletable": true,
-            "position": "right",
-            "editing": false
-          },
-          "$invalid": false
-        },
-        "$invalid": false,
-        "$$hashKey": "object:409"
-      }
-    ],
-    "$conditionOutputs": [],
-    "$enteringCustomActions": [],
-    "$leavingCustomActions": [],
-    "$inputSuggestions": [],
-    "$defaultOutput": {
-      "stateId": "fallback",
-      "$invalid": false
-    },
-    "$tags": [],
-    "id": "cd916b50-566e-45e9-a327-1f84809a1c3a",
-    "root": false,
-    "$title": "Novo bloco rewrew",
-    "$position": {
-      "top": "203px",
-      "left": "156px"
-    },
-    "$invalidContentActions": false,
-    "$invalidOutputs": false,
-    "$invalidCustomActions": false,
-    "$invalid": false
   }
 }
