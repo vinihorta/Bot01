@@ -295,5 +295,49 @@
     "$invalidOutputs": false,
     "$invalidCustomActions": false,
     "$invalid": false
+  },
+  "2f7ca8a4-b2de-43b3-98cf-464d92e8c3e5": {
+    "$contentActions": [
+      {
+        "input": {
+          "bypass": false,
+          "$cardContent": {
+            "document": {
+              "id": "418c650e-45f1-4866-bf02-1746505694c7",
+              "type": "text/plain",
+              "textContent": "Entrada do usuário",
+              "content": "Entrada do usuário"
+            },
+            "editable": false,
+            "deletable": true,
+            "position": "right",
+            "editing": false
+          },
+          "$invalid": false
+        },
+        "$invalid": false,
+        "$$hashKey": "object:1954"
+      }
+    ],
+    "$conditionOutputs": [],
+    "$enteringCustomActions": [],
+    "$leavingCustomActions": [],
+    "$inputSuggestions": [],
+    "$defaultOutput": {
+      "stateId": "fallback",
+      "$invalid": false
+    },
+    "$tags": [],
+    "id": "2f7ca8a4-b2de-43b3-98cf-464d92e8c3e5",
+    "root": false,
+    "$title": "New Branch block",
+    "$position": {
+      "top": "231px",
+      "left": "128px"
+    },
+    "$invalidContentActions": false,
+    "$invalidOutputs": false,
+    "$invalidCustomActions": false,
+    "$invalid": false
   }
 }
