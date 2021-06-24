@@ -1,0 +1,148 @@
+{
+  "$contentActions": [
+    {
+      "action": {
+        "$id": "e1868362-0193-4122-84d6-413bc08f1bfa",
+        "type": "SendMessage",
+        "settings": {
+          "id": "00000000-0000-0000-0000-000000000000",
+          "type": "application/vnd.lime.chatstate+json",
+          "content": {
+            "state": "composing",
+            "interval": 1000
+          }
+        },
+        "$cardContent": {
+          "document": {
+            "id": "00000000-0000-0000-0000-000000000000",
+            "type": "application/vnd.lime.chatstate+json",
+            "content": {
+              "state": "composing",
+              "interval": 1000
+            }
+          },
+          "editable": true,
+          "deletable": true,
+          "position": "left",
+          "editing": false
+        }
+      },
+      "$invalid": false,
+      "$$hashKey": "object:426"
+    },
+    {
+      "action": {
+        "$id": "a58d4e93-0aa5-44d4-9957-a59be27a5787",
+        "type": "SendMessage",
+        "settings": {
+          "id": "00000000-0000-0000-0000-000000000001",
+          "type": "text/plain",
+          "content": "Olá! {{contact.name}}!\nSeja bem-vindo(a)!"
+        },
+        "$cardContent": {
+          "document": {
+            "id": "00000000-0000-0000-0000-000000000001",
+            "type": "text/plain",
+            "content": "Olá! {{contact.name}}!\nSeja bem-vindo(a)!"
+          },
+          "editable": true,
+          "deletable": true,
+          "position": "left",
+          "editing": false
+        }
+      },
+      "$invalid": false,
+      "$$hashKey": "object:427"
+    },
+    {
+      "action": {
+        "$id": "14d05707-45a3-47fd-bd0b-7caed53187fc",
+        "type": "SendMessage",
+        "settings": {
+          "id": "d0bdee3a-acab-4474-af55-d7135b96d29c",
+          "type": "application/vnd.lime.chatstate+json",
+          "content": {
+            "state": "composing",
+            "interval": 1000
+          }
+        },
+        "$cardContent": {
+          "document": {
+            "id": "d0bdee3a-acab-4474-af55-d7135b96d29c",
+            "type": "application/vnd.lime.chatstate+json",
+            "content": {
+              "state": "composing",
+              "interval": 1000
+            }
+          },
+          "editable": true,
+          "deletable": true,
+          "position": "left"
+        }
+      },
+      "$invalid": false,
+      "$$hashKey": "object:764"
+    },
+    {
+      "action": {
+        "$id": "4bf189ab-1139-44d0-8d28-876227fb47e0",
+        "type": "SendMessage",
+        "settings": {
+          "id": "ed6d3ba7-5990-4522-b61e-fdd66921578d",
+          "type": "text/plain",
+          "content": "Some text"
+        },
+        "$cardContent": {
+          "document": {
+            "id": "ed6d3ba7-5990-4522-b61e-fdd66921578d",
+            "type": "text/plain",
+            "content": "Some text"
+          },
+          "editable": true,
+          "deletable": true,
+          "position": "left"
+        }
+      },
+      "$invalid": false,
+      "$$hashKey": "object:765"
+    },
+    {
+      "input": {
+        "bypass": false,
+        "$cardContent": {
+          "document": {
+            "id": "8bc9387a-6e1f-4dc6-bbf5-e75f01188cf2",
+            "type": "text/plain",
+            "content": "Entrada do usuário"
+          },
+          "editable": false,
+          "deletable": true,
+          "position": "right",
+          "editing": false
+        },
+        "$invalid": false
+      },
+      "$invalid": false,
+      "$$hashKey": "object:428"
+    }
+  ],
+  "$conditionOutputs": [],
+  "$enteringCustomActions": [],
+  "$leavingCustomActions": [],
+  "$inputSuggestions": [],
+  "$defaultOutput": {
+    "stateId": "fallback",
+    "$invalid": false
+  },
+  "$tags": [],
+  "id": "welcome",
+  "$title": "Boas vindas",
+  "$position": {
+    "top": "240px",
+    "left": "644px"
+  },
+  "$invalidContentActions": false,
+  "$invalidOutputs": false,
+  "$invalidCustomActions": false,
+  "$invalid": false
+}
