@@ -1,0 +1,56 @@
+{
+  "$contentActions": [
+    {
+      "input": {
+        "bypass": true,
+        "$cardContent": {
+          "document": {
+            "id": "710bef8d-c08d-4438-bd11-377151999346",
+            "type": "text/plain"
+          },
+          "editable": false,
+          "deletable": true,
+          "position": "right",
+          "editing": false
+        },
+        "$invalid": false
+      },
+      "$invalid": false
+    }
+  ],
+  "$conditionOutputs": [
+    {
+      "stateId": "error",
+      "conditions": [
+        {
+          "source": "input",
+          "comparison": "matches",
+          "values": [
+            ".*"
+          ]
+        }
+      ],
+      "$id": "0ea77459-f04f-4d9a-bc0e-8ff5911106d6",
+      "$connId": "con_3",
+      "$invalid": false
+    }
+  ],
+  "$enteringCustomActions": [],
+  "$leavingCustomActions": [],
+  "$inputSuggestions": [],
+  "$defaultOutput": {
+    "stateId": "onboarding",
+    "$invalid": false
+  },
+  "$tags": [],
+  "id": "fallback",
+  "$title": "Exceções",
+  "$position": {
+    "top": "120px",
+    "left": "877px"
+  },
+  "$invalidContentActions": false,
+  "$invalidOutputs": false,
+  "$invalidCustomActions": false,
+  "$invalid": false
+}
