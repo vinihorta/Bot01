@@ -17,7 +17,8 @@
         },
         "$invalid": false
       },
-      "$invalid": false
+      "$invalid": false,
+      "$$hashKey": "object:443"
     }
   ],
   "$conditionOutputs": [],
@@ -31,7 +32,7 @@
   "$tags": [],
   "id": "455fdb4b-7fa0-4f2b-b005-7b9730187d78",
   "root": false,
-  "$title": "Novo bloco",
+  "$title": "Novo bloco jhgh",
   "$position": {
     "top": "264px",
     "left": "369px"
