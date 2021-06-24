@@ -27,7 +27,8 @@
           "editing": false
         }
       },
-      "$invalid": false
+      "$invalid": false,
+      "$$hashKey": "object:327"
     },
     {
       "action": {
@@ -50,7 +51,8 @@
           "editing": false
         }
       },
-      "$invalid": false
+      "$invalid": false,
+      "$$hashKey": "object:328"
     },
     {
       "action": {
@@ -78,7 +80,8 @@
           "position": "left"
         }
       },
-      "$invalid": false
+      "$invalid": false,
+      "$$hashKey": "object:329"
     },
     {
       "action": {
@@ -100,7 +103,8 @@
           "position": "left"
         }
       },
-      "$invalid": false
+      "$invalid": false,
+      "$$hashKey": "object:330"
     },
     {
       "input": {
@@ -118,11 +122,27 @@
         },
         "$invalid": false
       },
-      "$invalid": false
+      "$invalid": false,
+      "$$hashKey": "object:331"
     }
   ],
   "$conditionOutputs": [],
-  "$enteringCustomActions": [],
+  "$enteringCustomActions": [
+    {
+      "$id": "370eadf3-6fa9-497b-b4c2-e559ac3457f6",
+      "type": "ProcessHttp",
+      "$title": "Requisição HTTP",
+      "$invalid": false,
+      "settings": {
+        "headers": {},
+        "method": "GET",
+        "uri": "https://embed.2b.uy/data/lm2aN1oOVlnG8Peh/data.json",
+        "responseStatusVariable": "status",
+        "responseBodyVariable": "response"
+      },
+      "conditions": []
+    }
+  ],
   "$leavingCustomActions": [],
   "$inputSuggestions": [],
   "$defaultOutput": {
