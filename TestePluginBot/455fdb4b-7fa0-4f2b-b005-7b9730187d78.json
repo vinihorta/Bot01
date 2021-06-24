@@ -17,8 +17,7 @@
         },
         "$invalid": false
       },
-      "$invalid": false,
-      "$$hashKey": "object:837"
+      "$invalid": false
     }
   ],
   "$conditionOutputs": [],
@@ -34,8 +33,8 @@
   "root": false,
   "$title": "Novo bloco",
   "$position": {
-    "top": "177px",
-    "left": "359px"
+    "top": "264px",
+    "left": "369px"
   },
   "$invalidContentActions": false,
   "$invalidOutputs": false,
